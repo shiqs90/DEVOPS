@@ -1,4 +1,4 @@
 ### IntelliJ Files ###
 .idea
-ayraa-pipelines.iml
+*.iml
 .DS_Store
