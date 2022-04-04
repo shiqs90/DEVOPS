@@ -1,2 +1,3 @@
 # DEVOPS
-Repository to hold DevOps projects
+Repository that holds DevOps project.
+Project 1: Jenkins Pipeline - Usecases
